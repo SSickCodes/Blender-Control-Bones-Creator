@@ -1,7 +1,7 @@
 # Blender-Control-Bones-Creator
 # This script makes it easy to deform and control face rigs in Blender.
 # This is a revised script made by SSickCodes orginally created by Getgoodwithvance
-# It should work well with Blender 4.2+
+# It works well with Blender 4.2+
 bl_info = {
     "name": "Control Bones Creator",
     "author": "Vince Russell (getgoodwithvince), updated for Blender 4.2 by Copilot",
